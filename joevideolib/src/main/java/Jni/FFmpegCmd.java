@@ -1,6 +1,7 @@
 package Jni;
 
-import android.support.annotation.Keep;
+
+import androidx.annotation.Keep;
 
 import VideoHandle.OnEditorListener;
 
