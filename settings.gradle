@@ -1,1 +1,1 @@
-include ':app', ':joevideolib', ':demo'
+include ':native', ':joevideolib', ':demo'
